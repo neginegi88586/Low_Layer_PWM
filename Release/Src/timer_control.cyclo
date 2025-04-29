@@ -1,0 +1,3 @@
+../Src/timer_control.c:35:15:Timer_Conf	4
+../Src/timer_control.c:64:15:Timer_Start_IT	5
+../Src/timer_control.c:86:6:Timer_IT_Handler	2

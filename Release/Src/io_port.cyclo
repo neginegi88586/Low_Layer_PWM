@@ -1,0 +1,3 @@
+../Src/io_port.c:31:6:IO_Port_Conf	6
+../Src/io_port.c:63:6:IO_Write	2
+../Src/io_port.c:75:6:IO_Toggle	1

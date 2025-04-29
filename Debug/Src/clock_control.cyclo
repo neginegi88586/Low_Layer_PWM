@@ -1,0 +1,7 @@
+C:/Users/idune/STM32CubeIDE/workspace_1.14.1/Low_Layer_PWM/Inc/Sys/core_cm0plus.h:850:22:__NVIC_SetPriority	2
+C:/Users/idune/STM32CubeIDE/workspace_1.14.1/Low_Layer_PWM/Inc/Sys/core_cm0plus.h:1056:26:SysTick_Config	2
+../Src/clock_control.c:41:15:System_Config	3
+../Src/clock_control.c:64:6:Tick_Count	1
+../Src/clock_control.c:69:6:Program_Delay	3
+../Src/clock_control.c:81:15:OSC_Conf	13
+../Src/clock_control.c:141:15:CLK_Conf	8

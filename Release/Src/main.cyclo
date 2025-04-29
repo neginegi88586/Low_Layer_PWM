@@ -1,0 +1,6 @@
+../Src/main.c:76:6:Read_Psw	1
+../Src/main.c:83:10:Chattering_Reduction	1
+../Src/main.c:126:6:Sys_Clock_Conf	3
+../Src/main.c:95:5:main	8
+../Src/main.c:223:6:Timer_Period_Callback	8
+../Src/main.c:264:6:Program_Error	1
